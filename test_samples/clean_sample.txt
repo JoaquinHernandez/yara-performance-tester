@@ -1,0 +1,2 @@
+This is a standard clean system log entry without any indicators of compromise.
+Application started successfully on port 8080.
